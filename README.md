@@ -11,8 +11,8 @@
 * **ChatGLM** (智谱 AI)
 
 ## 目录结构
-* **chatglm_project/**：存放ChatGLM模型的脚本及相关运行截图。
-* **deepseek_project/**：存放DeepSeek模型的脚本及相关运行截图。
-* **qwen_project/**：存放Qwen模型的脚本及相关运行截图。
-* **大语言模型部署体验实验报告.docx/**：存放本次实验具体操作过程及三个模型回答的横向对比分析。
+* **chatglm_project**：存放ChatGLM模型的脚本及相关运行截图。
+* **deepseek_project**：存放DeepSeek模型的脚本及相关运行截图。
+* **qwen_project**：存放Qwen模型的脚本及相关运行截图。
+* **大语言模型部署体验实验报告.docx**：存放本次实验具体操作过程及三个模型回答的横向对比分析。
 * **README.md**：项目总体说明文档。
